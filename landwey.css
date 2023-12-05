@@ -1,0 +1,245 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-attachment: scroll;
+    background-color: rgb(243,243,243); 
+    width: 100%;
+    height: 100vh;
+}
+.header img{
+    height: 50px;
+    padding-left: 30px;
+}
+nav{
+    /* background-color: rgb(243,243,243); 
+    width: 100%;
+    height: 100vh; */
+    margin-top: 0px;
+    /* padding-top: 2px; */
+    background-color: white;
+    margin: auto;
+    width: 80%;
+    align-items: center;   
+}
+.header{
+    background-color: white;
+    margin: auto;
+    width: 80%;
+    align-items: center;
+    font-family: sans-serif;
+    color: rgba(0, 0, 0, 0.829);
+    display: flex;
+    /* margin-top: 0; */
+    /* padding: 15px; */
+    cursor: pointer;
+    position: fixed;
+}
+.header button{
+    width: 200px;
+    height: 40px;
+    color: white;
+    background-color: rgb(250, 100, 0);
+    border-radius: 10px;
+    border: none;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    justify-content: space-evenly;
+    cursor: pointer;
+}
+.Blog{
+    display: none;
+    border-top: 1px solid rgb(250, 100, 0);
+    width: 100px;
+    height: 60px;
+    background-color: white;
+}
+.nav ul li:hover .dropdown ul{
+    display: block;
+}
+.ABOUT:hover{
+    color:  rgb(250, 100, 0); 
+}
+.SCHEDULE:hover{
+    color:  rgb(250, 100, 0); 
+}
+.PROJECTS:hover{
+    color:  rgb(250, 100, 0);
+}
+ul{
+   display: flex;
+   align-items: center;
+   list-style: none;
+   padding-left: 150px; 
+}
+ul li{
+    padding: 20px;
+    font-size: 12px;
+}
+.New{
+    text-align: center;
+    background-color: white;
+    margin: auto;
+    width: 80%;
+    padding: 15px;
+    padding-top: 150px;
+    /* margin-top: 50px; */
+}
+.no{
+    font-size: 45px;
+    font-weight: 700;
+}
+.TErra-gardens{
+    width:400px ;
+    height: 300px;
+    padding-top: 100px;
+    padding-left: 40px;
+    /* border-radius:20px 20px 20px 0px;  */
+}
+.Terraces{
+    padding-top: 10px;
+    color: black;
+    font-size: 23px;
+}
+.Road{
+    background-color:  rgb(250, 100, 0);
+    color: white;
+    width: 250px;
+    height: 30px;
+    border: none;
+}
+.Terra{
+    padding-left: 60px;
+}
+.material-symbols-outlined {
+  font-variation-settings:
+  'FILL' 0,
+  'wght' 400,
+  'GRAD' 0,
+  'opsz' 24
+}
+#gym{
+    padding-left: 80px;
+    padding-top: 40px;
+    
+}
+.ym{
+    padding-left: 80px;
+    padding-top: 10px; 
+}
+.fonts{
+    display: flex;
+}
+#wifi{
+    padding-left: 20px;
+    padding-top: 40px; 
+}
+.smart{
+    padding-top: 10px;
+    padding-left: 15px;
+}
+#phone{
+    padding-top: 40px;
+    padding-left: 40px;
+}
+.car{
+    width: 200px;
+    height: 90px;
+    padding-left: 60px;
+    padding-top: 40px;
+}
+.cras{
+    width: 200px;
+    height: 90px;
+    padding-left: 20px;
+    padding-top: 40px;
+}
+.flow{
+    display: flex;
+    width: 600px;
+    overflow: auto;
+}
+::-webkit-scrollbar{
+    color: white;
+}
+.see{
+    align-items: center;
+    background-color: rgb(250, 100, 0);
+    color: white;
+    border-radius: 20px;
+    width: 100px;
+    height: 40px;
+    border: none;
+    margin-left: 250px;
+    margin-top: 0px;
+    cursor: pointer;
+}
+.my-icons{
+    display: block;
+    color: white;
+    background-color: white;
+    width: 40px;
+    height: 170px;
+   border-radius: 15px;
+   padding-top: 10px;
+   margin-left: 1150px;
+   padding-left: 5px;
+   margin-bottom: 50px;
+   
+   
+}
+#cc{
+    color: rgb(250, 100, 0);
+    font-size: 30px;
+    padding: 5px;
+}
+footer{
+    text-align: center;
+    padding-top: 20px;
+    color: rgba(0, 0, 0, 0.281);
+    font-size: 15px;
+}
+/* a{
+    color: white;
+    background-color: rgb(250, 100, 0);
+    width: 500px;
+    height: 50px;
+   border-radius: 20px;
+   padding: 10px;
+   border: none;
+   margin-left: 1100px;
+   text-decoration: none;
+   cursor: pointer; */
+/* } */
+#bathrobe{
+    width: 50px;
+    height: 40px;
+    padding-top: 30px;
+    padding-left: 35px; ;
+}
+.see{
+    color: white;
+    background-color: rgb(250, 100, 0);
+    width: 500px;
+    height: 50px;
+   border-radius: 20px;
+   padding: 10px;
+   border: none;
+   /* margin-left: 1100px; */
+   text-decoration: none;
+   cursor: pointer;
+}
+/* .Quick{
+    color: white;
+    background-color: rgb(250, 100, 0);
+    width: 500px;
+    height: 50px;
+   border-radius: 20px;
+   padding: 10px;
+   border: none;
+   margin-left: 1100px;
+   text-decoration: none;
+   cursor: pointer;
+} */

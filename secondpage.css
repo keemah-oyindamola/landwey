@@ -1,0 +1,240 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-attachment: scroll;
+    font-family: 'Roboto', sans-serif;
+}
+.page-1{
+    background-image: url(WhatsApp\ Image\ 2023-12-02\ at\ 19.02.42_ccede65d.jpg);
+    width: 100vw;
+    height: 100vh;
+    background-size: cover;
+}
+.YOUR h1{
+    font-size: 100px;
+    font-weight: 700;
+    color: #FFFFFF;
+    line-height: 117px;
+    font-family: 'Archivo Narrow', sans-serif;
+}
+.YOUR{
+    text-align: center;
+    padding-top: 100px;
+    /* color: white; */
+}
+.line{
+    width: 25%;
+    height: 8px;
+    background-color: #006837;
+    border: none;
+    margin-left: 500px;
+}
+p{
+    color: white;
+    font-family: 'Archivo Narrow', sans-serif;
+}
+.hh{
+    padding-top: 50px;
+    color: white;
+    font-family: 'Archivo Narrow', sans-serif;
+}
+.ENQUIRE{
+    background-color: #006837;
+    color: white;
+    width: 130px;
+    height: 40px;
+    border: none;
+    margin-top: 70px;
+    text-decoration: none;
+    font-family: 'Archivo Narrow', sans-serif;
+}
+.my-icons{
+    display: block;
+    color: white;
+    background-color: white;
+    width: 40px;
+    height: 170px;
+   border-radius: 15px;
+   padding-top: 10px;
+   margin-left: auto;
+   padding-left: 5px;
+   margin-bottom: 50px;
+}
+#cc{
+    color: rgb(250, 100, 0);
+    font-size: 30px;
+    padding: 5px;
+}
+h3{
+    text-align: center;
+}
+.power-line{
+    margin-left: 250px;
+}
+.charging-station{
+    margin-left: 230px;
+}
+.weight{
+    margin-left: 200px;
+}
+/* .features{
+     text-align: center;
+} */
+/* .page-2{
+    align-items: center;
+} */
+.cctv{
+    margin-top: 50px;
+}
+.location{
+    width: 80%;
+    margin-left: 150px;
+    padding-top: 50px;
+}
+.wierd{
+    /* display: flex; */
+    padding-top: 50px;
+}
+.terra-3bed-terrace{
+    padding-left: 180px;
+    /* display: flex; */
+}
+.Bedroom{
+    color: #FFFFFF;
+    background-color: #006837;
+    width: 400px;
+    height: 50px;
+    border: none;
+    margin-left: 60px;
+    font-size: 20px;
+    /* margin-bottom: 380px; */
+    /* display: block; */
+}
+ul{
+    list-style-type: circle;
+    margin-left: 70px;
+    /* margin-bottom: 350px; */
+    padding-bottom: 380px;
+    /* margin-top: 50px; */
+    /* display: block; */
+    /* padding-right: 80px; */
+}
+.flex{
+    padding-top: 30px;
+    padding-left: 200px;
+    /* display: flex; */
+    
+}
+.edit{
+    width: 350px;
+    height: 200px;
+    padding-left: 10px;
+}
+.flexe{
+    padding-top: 30px;
+    padding-left: 200px;
+    display: flex; 
+}
+.Schedule{
+    padding-left: 200px;
+}
+.full{
+    display: flex;
+    padding-top: 20px;
+    padding-left: 200px;
+}
+input{
+    width: 500px;
+    height: 50px;
+    border-radius: 8px;
+    color: rgb(67,107,93);
+    border: 1px solid rgb(67,107,93);
+    /* margin-left: 20px; */
+}
+/* .for{
+    padding-left: 70px;
+} */
+.name{
+    padding-left: 450px;
+}
+.text{
+    width: 500px;
+    height: 50px;
+    border-radius: 8px;
+    color: rgb(67,107,93);
+    margin-left: 30px;
+}
+.Tel{
+    padding-left: 500px;
+}
+.Email{
+    padding-left: 420px;
+}
+.Time{
+    padding-left: 350px;
+}
+#input{
+    width: 500px;
+    height: 50px;
+    border-radius: 8px;
+    color: rgb(67,107,93);
+    border: 1px solid rgb(67,107,93);
+    /* margin-left: 20px; */
+}
+#text{
+    width: 50px;
+    height: 50px;
+    border-radius: 8px;
+    color: rgb(67,107,93);
+    border: 1px solid rgb(67,107,93);
+    margin-left: 30px;
+}
+.submit{
+    width: 120px;
+    height: 35px;
+    color: white;
+    background-color: #006837;
+    margin-left: 250px;
+}
+.submit:hover{
+    background-color: black;
+    cursor: pointer;
+}
+#submit{
+    width: 120px;
+    height: 35px;
+    color: white;
+    background-color: #006837;
+}
+#submit:hover{
+    background-color: black;
+    cursor: pointer;
+}
+.Quick{
+    color: white;
+    background-color: rgb(250, 100, 0);
+    width: 500px;
+    height: 50px;
+   border-radius: 20px;
+   padding: 10px;
+   border: none;
+   margin-left: 1100px;
+   text-decoration: none;
+   cursor: pointer;
+}
+/* a{
+    color: white;
+    background-color: rgb(250, 100, 0);
+    width: 500px;
+    height: 50px;
+   border-radius: 20px;
+   padding: 10px;
+   border: none;
+   margin-left: 100px;
+   text-decoration: none;
+   cursor: pointer;  */
+}
+
+
